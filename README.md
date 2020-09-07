@@ -10,4 +10,4 @@ Simple Invoicing Processing app using:
 * Bootstrap
 
 Written in Visual Studio Code
-<a href="https://www.youtube.com/watch?v=Bro0uFVDrWY&ab_channel=CodeEngine " >Credit:</a>
+[Credit]: CodeEngine([link to Google!](https://www.youtube.com/watch?v=Bro0uFVDrWY&ab_channel=CodeEngine))
